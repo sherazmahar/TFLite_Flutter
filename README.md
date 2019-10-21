@@ -27,3 +27,6 @@ If you found this project useful, then please consider giving it a :star: on Git
 ## Project Created & Maintained By
 
 ### Sheraz Mahar
+
+### LinkedIn
+https://LInkedin.com/in/mahar-sheraz-26b231131/
