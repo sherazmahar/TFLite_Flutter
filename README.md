@@ -16,3 +16,14 @@ A Flutter plugin for accessing TensorFlow Lite API. Supports image classificatio
 - [Example](#Example)
     - [Prediction in Static Images](#Prediction-in-Static-Images)
     - [Real-time Detection](#Real-time-Detection)
+
+##### Object detector
+![screenshot_20180724-151122](https://user-images.githubusercontent.com/951998/43141130-76e3dfb0-8f55-11e8-9603-882096c02ab6.png)
+
+### :heart: Found this project useful?
+
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+
+## Project Created & Maintained By
+
+### Sheraz Mahar
